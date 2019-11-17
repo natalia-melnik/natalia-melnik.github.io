@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 # Site settings
 title: Natalia Melnik
 email: natalia.melnik@psy.unibe.ch
-description: A phd candidate
+#description: 
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "https://natalia-melnik.github.io/" # the base hostname & protocol for your site
 #github_username: 
@@ -13,14 +13,19 @@ orcid_id: 0000-0002-8321-0702
 # google_scholar_id: 
 
 # Other options
-permalink: blog/:year/:month/:title/
+#permalink: blog/:year/:month/:title/
 #jobtitle: "PhD Candidate in Psychology"
-excerpt_separator: "<!--more-->"
+#excerpt_separator: "<!--more-->"
 
-# SEO stuff
-# google_author: ""
-# google_site_verification: ""
-# bing_webmastertools_id: ""
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
 plugins:
   - jekyll-sitemap
