@@ -14,6 +14,8 @@ __Melnik N.__, Coates D.R., Sayim B. (2019). Direct capture of peripheral appear
 
 __Melnik N.__, Coates D.R., Sayim B. (2018). Too good to be crowded: A peculiar case of weak crowding with high target-flanker similarity. ECVP, 26 August - 01 September 2018, Italy, Trieste. 
 
+Sayim B., __Melnik N.__, Yildirim F.Z., Coates D.R. (2017). Capturing appearance in crowded peripheral vision. GDR Vision Meeting, 11-12 October 2017, Lille, France. 
+
 __Melnik N.__, Coates D.R., Sayim B. (2017). Emergent features in the crowding zone. ECVP, 27 - 31 August 2017, Germany, Berlin. 
 
 Coates D.R., Yildirim, Z., __Melnik N.__, Sayim B. (2017). Deconstructing peripheral appearance. ECVP, 27 - 31 August 2017, Germany, Berlin. 
