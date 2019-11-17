@@ -5,7 +5,7 @@ __Melnik N.__, Coates D.R., Sayim B. (2018). Emergent features in the crowding z
 __Melnik N.__, Mapelli I., Özkurt T. E. (2017). Modulation of alpha oscillations is required for the suppression of semantic interference. Neurobiology of learning and memory, 144, 11-18. 
 
 
-### Abstracts:
+### Conference abstracts:
 __Melnik N.__, Coates D.R., Sayim B. (2019). Peripheral appearance in dyslexic readers is characterized by an excessive loss of elements. 16th SPS SGP SSP Conference, 9-11 September 2019, Bern, Switzerland. (talk)
 
 __Melnik N.__, Coates D.R., Sayim B. (2019). What dyslexics see: Excessive information loss characterizes peripheral appearance in dyslexia. ECVP, 26-29 August 2019, Leuven, Belgium. (talk)
