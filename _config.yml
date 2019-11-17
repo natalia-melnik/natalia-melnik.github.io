@@ -27,5 +27,15 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
 plugins:
   - jekyll-sitemap
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
