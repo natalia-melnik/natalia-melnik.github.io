@@ -7,3 +7,5 @@ I received a M.Sc. in Cognitive Science in 2015. During the studies I was involv
 ORCID iD 0000-0002-8321-0702 
 
 [Research Output](https://natalia-melnik.github.io/research)
+
+[A-paper-a-week-2020-challenge](https://natalia-melnik.github.io/a-paper-a-week-2020-challenge)
