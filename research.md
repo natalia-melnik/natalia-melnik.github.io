@@ -25,6 +25,6 @@ Coates D.R., Yildirim, Z., __Melnik N.__, Sayim B. (2017). Deconstructing periph
 
 Sayim B., __Melnik N.__, Yildirim Z., Coates D.R. (2017). Creating peripheral shape metamers. ECVP, 27 - 31 August 2017, Germany, Berlin. (poster)
 
-Mapelli I.,__Melnik N.__,Özkurt T.E. (2015). Alpha activity in the posterior regions distinguishes visual false memories and other memory errors, OHBM, Hawaii, USA (poster)
+Mapelli I., __Melnik N.__, Özkurt T.E. (2015). Alpha activity in the posterior regions distinguishes visual false memories and other memory errors, OHBM, Hawaii, USA (poster)
 
 __Melnik N.__, Mapelli I., Özkurt T.E.(2015). Alpha activity reflects semantic interference resolution in an auditory working memory task, OHBM, Hawaii, USA (poster)
