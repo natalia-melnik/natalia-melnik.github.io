@@ -5,7 +5,7 @@ __Melnik N.__, Coates D.R., Sayim B. (accepted). Emergent features break the rul
 
 __Melnik N.__, Coates D.R., Sayim B. (2018). Emergent features in the crowding zone: When target-flanker grouping surmounts crowding. Journal of Vision. September 2018, Vol. 18, 19. doi:10.1167/18.9.19. <http://jov.arvojournals.org/article.aspx?articleid=2703422>
 
-__Melnik N.__, Mapelli I., Özkurt T. E. (2017). Modulation of alpha oscillations is required for the suppression of semantic interference. Neurobiology of learning and memory, 144, 11-18. 
+__Melnik N.__, Mapelli I., Özkurt T. E. (2017). Modulation of alpha oscillations is required for the suppression of semantic interference. Neurobiology of learning and memory, 144, 11-18. [link](https://doi.org/10.1016/j.nlm.2017.05.007)
 
 
 ### Conference abstracts:
