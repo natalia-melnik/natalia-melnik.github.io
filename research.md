@@ -1,7 +1,7 @@
 
 ### Peer-reviewed articles: 
 
-__Melnik N.__, Coates D.R., Sayim B. (accepted). Emergent features break the rules of crowding. Scientific Reports.  
+__Melnik N.__, Coates D.R., Sayim B. (In press). Emergent features break the rules of crowding. Scientific Reports. [link](http://www.nature.com/articles/s41598-019-57277-y)
 
 __Melnik N.__, Coates D.R., Sayim B. (2018). Emergent features in the crowding zone: When target-flanker grouping surmounts crowding. Journal of Vision. September 2018, Vol. 18, 19. doi:10.1167/18.9.19. [link](http://jov.arvojournals.org/article.aspx?articleid=2703422)
 
