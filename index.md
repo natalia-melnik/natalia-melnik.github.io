@@ -7,6 +7,8 @@ I received a M.Sc. in Cognitive Science in 2015. For my master's project I used 
 
 ORCID iD 0000-0002-8321-0702 
 
+Email: natalia(dot)melnik(at)psy(dot)unibe(dot)ch
+
 [Research Output](https://natalia-melnik.github.io/research)
 
 
