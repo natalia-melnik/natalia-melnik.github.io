@@ -6,7 +6,7 @@ layout: default
 I am a PhD candidate at the [Psychophysics of Appearance Laboratory](http://appearancelab.org/) headed by Prof. Bilge Sayim at the [Institute of Psychology](https://www.psy.unibe.ch/), [University of Bern](https://www.unibe.ch/) (CH). I use psychophysics and appearance-based methods to investigate shape perception in the periphery. 
 
 ## Research Interests
-<div style="text-align: justify">shape and letter perception, shape appearance, peripheral vision, crowding, perceptual organization, dyslexia, eye movements</div>
+<div style="text-align: justify">shape and letter perception, appearance, peripheral vision, crowding, perceptual organization, dyslexia, eye movements</div>
 
 ## Education
 **PhD Candidate**, Institute of Psychology, University of Bern
