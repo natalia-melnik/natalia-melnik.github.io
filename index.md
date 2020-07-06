@@ -9,7 +9,7 @@ I am a PhD candidate at the [Psychophysics of Appearance Laboratory](http://appe
 <div style="text-align: justify">shape perception, shape appearance, crowding, perceptual organization</div><br>
 
 ## Education
-**PhD Candidate** at Institute of Psychology, University of Bern
+**PhD Candidate**, Institute of Psychology, University of Bern
 
 **M.S. in Cognitive Science**, Middle East Technical University
 
