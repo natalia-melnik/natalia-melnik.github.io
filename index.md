@@ -21,8 +21,8 @@ ORCID: 0000-0002-8321-0702
 
 Email: natalia(dot)melnik(at)psy(dot)unibe(dot)ch
 
-
-
+## Misc:
+[RSVP-style video generation](https://github.com/natalia-melnik/rsvp-stimgen)
 
 
 
