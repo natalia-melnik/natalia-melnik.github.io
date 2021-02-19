@@ -1,7 +1,7 @@
 
 ### Peer-reviewed articles: 
 
-__Melnik N.__, Coates D.R., Sayim B. (2021). Geometrically Restricted Image Descriptors: A method to capture the appearance of shape. Journal of Vision. link
+__Melnik N.__, Coates D.R., Sayim B. (2021, in press). Geometrically Restricted Image Descriptors: A method to capture the appearance of shape. Journal of Vision. link
 
 __Melnik N.__, Coates D.R., Sayim B. (2020). Emergent features break the rules of crowding. Scientific Reports. [link](http://www.nature.com/articles/s41598-019-57277-y)
 
