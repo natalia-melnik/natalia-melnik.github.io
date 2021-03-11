@@ -9,7 +9,7 @@ I am a research fellow at the [Department of Experimental Psychology](http://www
 <div style="text-align: justify">visual perception, shape and letter perception, appearance, peripheral vision, crowding, perceptual organization, dyslexia, eye movements, age-related macular degeneration, perceptual learning</div>
 
 ## Education
-**PhD in Psychology**, Institute of Psychology, University of Bern
+**Ph.D. in Psychology**, Institute of Psychology, University of Bern
 
 **M.S. in Cognitive Science**, Middle East Technical University
 
