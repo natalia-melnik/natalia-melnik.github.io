@@ -11,6 +11,11 @@ __Melnik N.__, Mapelli I., Özkurt T. E. (2017). Modulation of alpha oscillation
 
 
 ### Conference abstracts:
+
+__Melnik N.__, Pollmann S. (2021). Oculomotor training to re-reference the saccades in simulated central vision loss: effect of different scotoma conditions. ECVP, 22-27 August 2021, Online (talk)
+
+Ganesan S., __Melnik N.__, Azañón E., Pollmann S. (2021). A novel saccadic re-referencing training with simulated central vision loss. ECVP, 22-27 August 2021, Online. (poster)
+
 __Melnik N.__, Coates D.R., Sayim B. (2019). Peripheral appearance in dyslexic readers is characterized by an excessive loss of elements. 16th SPS SGP SSP Conference, 9-11 September 2019, Bern, Switzerland. (talk)
 
 __Melnik N.__, Coates D.R., Sayim B. (2019). What dyslexics see: Excessive information loss characterizes peripheral appearance in dyslexia. ECVP, 26-29 August 2019, Leuven, Belgium. (talk)
