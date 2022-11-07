@@ -12,7 +12,7 @@ __Melnik N.__, Mapelli I., Özkurt T. E. (2017). Modulation of alpha oscillation
 
 ### Conference abstracts:
 
-__Melnik N.__, Pollmann S. (2021). Oculomotor training to re-reference the saccades in simulated central vision loss: effect of different scotoma conditions. ECVP, 22-27 August 2021, Online (talk)
+__Melnik N.__, Pollmann S. (2021). Oculomotor training to re-reference the saccades in simulated central vision loss: effect of different scotoma conditions. ECVP, 22-27 August 2021, Online. (talk)
 
 Ganesan S., __Melnik N.__, Azañón E., Pollmann S. (2021). A novel saccadic re-referencing training with simulated central vision loss. ECVP, 22-27 August 2021, Online. (poster)
 
