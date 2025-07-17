@@ -17,9 +17,7 @@ orcid_id: 0000-0002-8321-0702
 #excerpt_separator: "<!--more-->"
 
 google_analytics: G-0CQNV9DG41
-function() {
-return localStorage.getItem( 'cookie_consent' );
-}
+
 readme_index:
   enabled:          true
   remove_originals: false
